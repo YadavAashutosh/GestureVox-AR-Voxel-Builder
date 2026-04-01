@@ -215,6 +215,6 @@ MIT License — free to use, modify, and distribute.
 
 **If this project helped you or made you smile, please give it a ⭐**
 
-*"It works. It's rough. Make it better."*
+*"It works. It's rough. Make it better.."*
 
 </div>
