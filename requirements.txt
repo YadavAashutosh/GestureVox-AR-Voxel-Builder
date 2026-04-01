@@ -1,0 +1,9 @@
+mediapipe==0.10.9
+opencv-python==4.9.0.80
+PyOpenGL==3.1.7
+PyOpenGL-accelerate==3.1.7
+glfw==2.6.5
+numpy==1.26.4
+scipy==1.12.0
+Pillow==10.2.0
+pyinstaller==6.4.0
