@@ -14,7 +14,7 @@
 
 <br/>
 
-> **⚠️ HONEST STATUS: The app runs and gestures work — but gesture accuracy and AR tracking still need a lot of work. This is an early alpha. Contributions, fixes, and improvements are very welcome!**
+> **⚠️ HONEST STATUS: The app runs and gestures work — but gesture accuracy and AR tracking still need a lot of work. This is an early alpha. Contributions, fixes, and improvements are very welcome!!**
 
 </div>
 
